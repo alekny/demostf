@@ -8,4 +8,4 @@ Thanks to [F2](https://github.com/F2/F2s-sourcemod-plugins) for [AnyHTTP](https:
 
 ## Building
 
-Place all files in your SourceMod installation and run: ./spcomp demos.tf
+Place all files in your SourceMod installation and run: ./spcomp demostf.sp
